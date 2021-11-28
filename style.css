@@ -24,7 +24,7 @@
             background: grey;
             display: inline;
             position: relative;
-            padding: 0px 20px;
+            padding: 0px 10px;
             text-decoration: underline;
         }
         
@@ -33,7 +33,8 @@
         }
         
         #featured-property p {
-            width: 40%;
+            margin-top: 20px;
+            width: 800px;
             display: inline-block;
         }
         
